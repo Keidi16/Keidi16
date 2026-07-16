@@ -1,27 +1,77 @@
-## 👨‍💻 About Me
+# 👋 Hi, I'm an Offensive Security Professional
 
-🔐 I'm a **Cybersecurity Consultant** and **Bug Bounty Hunter**.  
-🛠️ Passionate about **penetration testing**, **ethical hacking**, and securing digital infrastructure.  
-🚨 I turn **vulnerabilities into opportunities** — helping organizations improve their security posture.  
-💡 Always learning. Always hacking. **Always ethical.**
+I am an **Offensive Security (OffSec) Professional** with **3 years of experience** in the **banking sector**, specializing in:
 
----
+- 🔴 Penetration Testing
+- 🛡️ Vulnerability Assessments
+- 🔍 Security Research
+- 🏦 Critical Infrastructure Security
+- 🌐 Web Application Security
+- ⚡ Offensive Security Operations
 
-### 🧰 Tech & Tools
-
-![Hacker](https://img.shields.io/static/v1?label=Hacker&message=Pentesting&color=blue&style=for-the-badge&logo=Python)
-![License](http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge)
-
----
-
-### 📫 Contact & Links
-
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/joaolopes203873/)])  
-- 🐞 [HackerOne](https://hackerone.com/L15B04)  
-- 🌐 [Website/Blog](https://bugcrowd.com/L15B04)
+My work focuses on identifying, validating, and responsibly disclosing security vulnerabilities to improve the security posture of organizations and critical systems.
 
 ---
 
-> "The quieter you become, the more you can hear." – Ram Dass
+## 🏆 Registered CVEs
 
+I have successfully discovered and disclosed multiple security vulnerabilities that have been assigned official **Common Vulnerabilities and Exposures (CVEs)**.
 
+### CVE-2025-26710
+**Information Disclosure – ZTE T5400**
+
+An Information Disclosure vulnerability affecting the **ZTE T5400** caused by improper access control. An unauthenticated attacker can obtain sensitive information through exposed interfaces.
+
+- **Type:** Information Disclosure
+- **Vendor:** ZTE
+- **Product:** T5400
+- **Status:** Public CVE
+
+---
+
+### CVE-2025-26711
+**Unauthorized Access – ZTE T5400**
+
+An Unauthorized Access vulnerability affecting the **ZTE T5400** due to improper permission control within the web module interface. An unauthenticated attacker can access sensitive information through exposed endpoints.
+
+- **Type:** Unauthorized Access
+- **Vendor:** ZTE
+- **Product:** T5400
+- **Status:** Public CVE
+
+---
+
+## 🎯 Areas of Expertise
+
+- External Penetration Testing
+- Internal Network Penetration Testing
+- Web Application Security Testing
+- API Security Testing
+- Active Directory Security Assessments
+- Vulnerability Research
+- OWASP Top 10
+- MITRE ATT&CK
+- Threat Modeling
+- Security Automation
+
+---
+
+## 📚 Interests
+
+- Offensive Security
+- Vulnerability Research
+- Red Team Operations
+- Exploit Development
+- Malware Analysis
+- Threat Intelligence
+- Secure Software Development
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: [https://www.linkedin.com/in/joaolopes203873/]
+---
+
+> *"Security is not about breaking systems; it's about making them stronger."*
